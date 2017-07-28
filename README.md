@@ -2,7 +2,7 @@
 Use the module to invoke Dynamsoft OCR RESTful API.
 
 ## Getting Started
-1. Createa a Dynamsoft account and generate the API key.
+1. Createa a Dynamsoft account and generate the [API key](https://cloud.dynamsoft.com/ocr/ocr-api-key-settings.aspx).
 
     ![OCR API key](http://www.codepool.biz/wp-content/uploads/2017/07/ddc-api-key.PNG)
 2. Initialize the module:
