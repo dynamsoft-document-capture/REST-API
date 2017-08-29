@@ -36,3 +36,8 @@ Use the module to invoke Dynamsoft OCR RESTful API.
     ```javascript
     {"list":[{"file_name":"1.jpg"},{"file_name":"2.jpg"}]} // data
     ```
+    
+## Blog
+[How to Use Dynamsoft Document Capture REST API in Node.js][0]
+
+[0]:http://www.codepool.biz/dynamsoft-ocr-rest-api-nodejs.html
